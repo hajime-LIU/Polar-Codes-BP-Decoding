@@ -1,7 +1,7 @@
 # Polar-Codes-BP-Decoding
 
 - To run the code, run "runBP.m", which outputs the matching number of bits after decoding.
-- Adjust parameters in the first line of "runBP.m"
+- Adjust parameters such as noise level in the first line of "runBP.m"
 
 ## Encoding
 Using encoding method and paramters from the attached slides from Monash University.
